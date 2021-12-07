@@ -48,7 +48,7 @@ npm install -g concurrently
 or if you are using it from npm scripts:
 
 ```bash
-npm install concurrently --save
+npm install concurrently
 ```
 
 ## Usage
